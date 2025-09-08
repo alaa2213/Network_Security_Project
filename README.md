@@ -64,7 +64,7 @@ The network was built using **subnetting, OSPF with authentication, ACLs, SSH, V
 - Add redundancy (HSRP/VRRP).  
 - Integrate IPS/IDS for advanced threat detection.  
 - Extend VPN to support remote access users.  
-- Fully migrate AAA to centralized TACACS+.  
+
 
 ---
 
